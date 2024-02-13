@@ -1,0 +1,4 @@
+Prediction of height by v АК + v ЦН + v ХЗ
+quality = {'R2-score': -0.27537266173640873, 'MAE': 1.2933052325581191, 'MAX': 4.566199999999945, 'RMSE': 1.641630471614803, 'R2-score interval': array([-1.33735178,  0.30409473]), 'RMSE interval': array([1.3563526 , 2.07998773])}
+quality_std = {'R2-score': 0.0, 'MAE': 0.0, 'MAX': 0.0, 'RMSE': 0.0, 'R2-score interval': array([0., 0.]), 'RMSE interval': array([0., 0.])}
+quality (MAE) = 1.2933052325581191

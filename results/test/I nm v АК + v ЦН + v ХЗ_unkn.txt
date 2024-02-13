@@ -1,0 +1,4 @@
+Prediction of I nm by v АК + v ЦН + v ХЗ
+quality = {'R2-score': -0.453706448282873, 'MAE': 2.1343732558139985, 'MAX': 8.571100000000229, 'RMSE': 2.8849133122229005, 'R2-score interval': array([-1.6641808 ,  0.20678715]), 'RMSE interval': array([2.38358128, 3.65525885])}
+quality_std = {'R2-score': 0.0, 'MAE': 0.0, 'MAX': 0.0, 'RMSE': 0.0, 'R2-score interval': array([0., 0.]), 'RMSE interval': array([0., 0.])}
+quality (MAE) = 2.1343732558139985

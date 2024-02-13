@@ -1,0 +1,4 @@
+Prediction of coef A by v АК + v ЦН + v ХЗ
+quality = {'R2-score': -0.37990816418525397, 'MAE': 2.2160755572791397e-05, 'MAX': 7.978429462123406e-05, 'RMSE': 2.875432404900881e-05, 'R2-score interval': array([-1.52893206,  0.24705508]), 'RMSE interval': array([2.37574794e-05, 3.64324629e-05])}
+quality_std = {'R2-score': 0.0, 'MAE': 0.0, 'MAX': 0.0, 'RMSE': 0.0, 'R2-score interval': array([0., 0.]), 'RMSE interval': array([0., 0.])}
+quality (MAE) = 2.2160755572791397e-05

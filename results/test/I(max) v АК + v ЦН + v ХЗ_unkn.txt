@@ -1,0 +1,4 @@
+Prediction of I(max) by v АК + v ЦН + v ХЗ
+quality = {'R2-score': -0.5937595720526312, 'MAE': 0.04027252171930194, 'MAX': 0.14747870724363976, 'RMSE': 0.05282761861491802, 'R2-score interval': array([-1.92085356,  0.13036737]), 'RMSE interval': array([0.04364739, 0.06693394])}
+quality_std = {'R2-score': 0.0, 'MAE': 0.0, 'MAX': 0.0, 'RMSE': 0.0, 'R2-score interval': array([0., 0.]), 'RMSE interval': array([0., 0.])}
+quality (MAE) = 0.04027252171930194

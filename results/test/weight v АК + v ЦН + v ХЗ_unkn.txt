@@ -1,0 +1,4 @@
+Prediction of weight by v АК + v ЦН + v ХЗ
+quality = {'R2-score': -0.4453956394830558, 'MAE': 0.034830597560169436, 'MAX': 0.10615388701307035, 'RMSE': 0.044423491157977064, 'R2-score interval': array([-1.64894974,  0.21132193]), 'RMSE interval': array([0.0367037, 0.0562857])}
+quality_std = {'R2-score': 0.0, 'MAE': 0.0, 'MAX': 0.0, 'RMSE': 0.0, 'R2-score interval': array([0., 0.]), 'RMSE interval': array([0., 0.])}
+quality (MAE) = 0.034830597560169436
