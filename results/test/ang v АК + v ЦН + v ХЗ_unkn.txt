@@ -1,4 +1,0 @@
-Prediction of ang by v АК + v ЦН + v ХЗ
-quality = {'R2-score': -0.30588287267629966, 'MAE': 0.0004657517061360989, 'MAX': 0.0016889281017308964, 'RMSE': 0.0006288840131791869, 'R2-score interval': array([-1.39326728,  0.28744688]), 'RMSE interval': array([0.0005196 , 0.00079681])}
-quality_std = {'R2-score': 0.0, 'MAE': 0.0, 'MAX': 0.0, 'RMSE': 0.0, 'R2-score interval': array([0., 0.]), 'RMSE interval': array([0., 0.])}
-quality (MAE) = 0.0004657517061360989

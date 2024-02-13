@@ -1,4 +1,0 @@
-Prediction of I(max)-I(400) by v АК + v ЦН + v ХЗ
-quality = {'R2-score': -0.5171911281246409, 'MAE': 0.07837643125675897, 'MAX': 0.3393391164606909, 'RMSE': 0.10743481229363162, 'R2-score interval': array([-1.78052799,  0.17214683]), 'RMSE interval': array([0.0887651 , 0.13612265])}
-quality_std = {'R2-score': 0.0, 'MAE': 0.0, 'MAX': 0.0, 'RMSE': 0.0, 'R2-score interval': array([0., 0.]), 'RMSE interval': array([0., 0.])}
-quality (MAE) = 0.07837643125675897

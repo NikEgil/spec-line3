@@ -1,4 +1,0 @@
-Prediction of I(650) by v АК + v ЦН + v ХЗ
-quality = {'R2-score': 0.11457511247847596, 'MAE': 0.0075587737488102, 'MAX': 0.025432804893445432, 'RMSE': 0.009623924910675808, 'R2-score interval': array([-0.62270174,  0.51686917]), 'RMSE interval': array([0.00795151, 0.01219376])}
-quality_std = {'R2-score': 0.0, 'MAE': 0.0, 'MAX': 0.0, 'RMSE': 0.0, 'R2-score interval': array([0., 0.]), 'RMSE interval': array([0., 0.])}
-quality (MAE) = 0.0075587737488102
